@@ -1,0 +1,109 @@
+<!doctype html>
+<html class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>中国用户体验创新大赛</title>
+    <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.7.2/css/amazeui.min.css">
+    <link rel="stylesheet" href="../static/css/swiper-3.4.2.min.css">
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.min.js"></script>
+    <!--<script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.widgets.helper.min.js"></script>-->
+</head>
+<style>
+    /** {
+        padding: 0;
+        margin: 0;
+    }*/
+
+    .orange-slide {
+        background: #fff;
+    }
+
+    .swiper-slide {
+        height: 100%;
+        /*width: 100%;*/
+    }
+
+    .swiper-container {
+        width: 100%;
+        max-height: 768px;
+        /*height: 100%;*/
+    }
+    @media (min-width: 1024px) {
+        .swiper-container{
+            width: 600px;
+        }
+        .swiper-slide img{
+            /*width: 100%;*/
+            height: 100%;
+        }
+     }
+     .join {
+        position: relative;
+     }
+    .sub{
+        position: absolute;
+        background: #fd9b39;
+        width: 150px;
+        height: 30px;
+        top: 25%;
+        left: 30%;
+    }
+</style>
+
+<body>
+    <div class="swiper-container am-container-fluid">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide blue-slide">
+                <img src="../static/img/IMG_01.png" class="am-img-responsive" alt="">
+            </div>
+            <div class="swiper-slide red-slide">
+                <img src="../static/img/IMG_02.png" class="am-img-responsive" alt="">
+            </div>
+            <div class="swiper-slide orange-slide">
+                <img src="../static/img/IMG_03.png" class="am-img-responsive" alt="">
+            </div>
+            <div class="swiper-slide orange-slide">
+                <img src="../static/img/IMG_04.png" class="am-img-responsive" alt="">
+            </div>
+            <div class="swiper-slide orange-slide">
+                <img src="../static/img/IMG_05.png" class="am-img-responsive" alt="">
+            </div>
+            <div class="swiper-slide orange-slide join">
+                <img src="../static/img/IMG_06.png" class="am-img-responsive" alt="">
+                <div class="sub">
+                    <a class="am-btn am-btn-secondary am-btn-block " href="/form">立即参与</a>
+                    <a type="button" class="am-btn am-btn-secondary am-btn-block " href="/bill/show">发票申请</a>
+                    <a type="button" class="am-btn am-btn-secondary am-btn-block " href="/download/page">资料下载</a>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-pagination"></div>                
+    </div>
+
+    
+    <script src="../static/js/swiper.min.js"></script>
+    <script>
+        var mySwiper = new Swiper('.swiper-container', {
+            direction: 'vertical',
+            loop: false,
+            speed: 200,
+            effect: "fade",
+            touchRatio: 0.5,
+            pagination: '.swiper-pagination',
+            paginationType: "bullets",
+            paginationClickable: true,
+            mousewheelControl: true,
+            onReachEnd: function (swiper) {
+                // window.location.href = "http://www.baidu.com";
+            }
+        })
+    </script>
+</body>
+
+</html>
