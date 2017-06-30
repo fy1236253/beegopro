@@ -1,6 +1,5 @@
 <!doctype html>
 <html class="no-js">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,28 +24,28 @@
     }
 
     .swiper-slide {
-        height: 100%;
-        /*width: 100%;*/
     }
 
     .swiper-container {
         width: 100%;
-        max-height: 768px;
-        /*height: 100%;*/
+        max-height: 1038px;
     }
+
     @media (min-width: 1024px) {
-        .swiper-container{
-            width: 600px;
+        .swiper-container {
+            width: 640px;
         }
-        .swiper-slide img{
+        .swiper-slide img {
             /*width: 100%;*/
-            height: 100%;
+            /*height: 100%;*/
         }
-     }
-     .join {
+    }
+
+    .join {
         position: relative;
-     }
-    .sub{
+    }
+
+    .sub {
         position: absolute;
         background: #fd9b39;
         width: 150px;
@@ -60,22 +59,22 @@
     <div class="swiper-container am-container-fluid">
         <div class="swiper-wrapper">
             <div class="swiper-slide blue-slide">
-                <img src="../static/img/IMG_01.png" class="am-img-responsive" alt="">
+                <img src="../static/img/IMG_01.png" width="640"  class="am-img-responsive" alt="">
             </div>
             <div class="swiper-slide red-slide">
-                <img src="../static/img/IMG_02.png" class="am-img-responsive" alt="">
+                <img src="../static/img/IMG_02.png" width="640" class="am-img-responsive" alt="">
             </div>
             <div class="swiper-slide orange-slide">
-                <img src="../static/img/IMG_03.png" class="am-img-responsive" alt="">
+                <img src="../static/img/IMG_03.png" width="640" class="am-img-responsive" alt="">
             </div>
             <div class="swiper-slide orange-slide">
-                <img src="../static/img/IMG_04.png" class="am-img-responsive" alt="">
+                <img src="../static/img/IMG_04.png" width="640" class="am-img-responsive" alt="">
             </div>
             <div class="swiper-slide orange-slide">
-                <img src="../static/img/IMG_05.png" class="am-img-responsive" alt="">
+                <img src="../static/img/IMG_05.png" width="640" class="am-img-responsive" alt="">
             </div>
             <div class="swiper-slide orange-slide join">
-                <img src="../static/img/IMG_06.png" class="am-img-responsive" alt="">
+                <img src="../static/img/IMG_06.png" width="640" class="am-img-responsive" alt="">
                 <div class="sub">
                     <a class="am-btn am-btn-secondary am-btn-block " href="/form">立即参与</a>
                     <a type="button" class="am-btn am-btn-secondary am-btn-block " href="/bill/show">发票申请</a>
@@ -83,10 +82,8 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-pagination"></div>                
+        <div class="swiper-pagination"></div>
     </div>
-
-    
     <script src="../static/js/swiper.min.js"></script>
     <script>
         var mySwiper = new Swiper('.swiper-container', {
@@ -99,6 +96,7 @@
             paginationType: "bullets",
             paginationClickable: true,
             mousewheelControl: true,
+            preloadImages: true,
             onReachEnd: function (swiper) {
                 // window.location.href = "http://www.baidu.com";
             }

@@ -15,7 +15,7 @@
 
 <body>
     <div class="am-container">
-        <form class="am-form" method="POST">
+        <form class="am-form" method="POST" data-am-validator>
             <h3 class="text-center">发票申请</h3>
             <p class="am-input-group am-input-group-secondary">
                 <span class="am-input-group-label"><i class="am-icon-cny am-icon-fw"></i></span>
@@ -24,30 +24,30 @@
 
             <p class="am-input-group am-input-group-secondary">
                 <span class="am-input-group-label"><i class="am-icon-file-word-o am-icon-fw"></i></span>
-                <input type="text" class="am-form-field" placeholder="单位名称:">
+                <input type="text" name="unit" class="am-form-field" placeholder="单位名称:" minlength="1" required>
             </p>
 
             <p class="am-input-group am-input-group-secondary">
                 <span class="am-input-group-label"><i class="am-icon-barcode am-icon-fw"></i></span>
-                <input type="text" class="am-form-field" placeholder="纳税人识别号:">
+                <input type="text" name="code" class="am-form-field" placeholder="纳税人识别号:" required>
             </p>
 
             <p class="am-input-group am-input-group-secondary">
                 <span class="am-input-group-label"><i class="am-icon-anchor am-icon-fw"></i></span>
-                <input type="text" name="name" class="am-form-field" placeholder="单位地址:">
+                <input type="text" name="address" class="am-form-field" placeholder="单位地址:" minlength="1" required>
             </p>
 
             <p class="am-input-group am-input-group-secondary">
                 <span class="am-input-group-label"><i class="am-icon-phone am-icon-fw"></i></span>
-                <input type="tel" class="am-form-field" placeholder="单位电话:">
+                <input type="number" name="tel"  class="am-form-field" placeholder="单位电话:" required minlength="1">
             </p>
             <p class="am-input-group am-input-group-secondary">
                 <span class="am-input-group-label"><i class="am-icon-bank am-icon-fw"></i></span>
-                <input type="text" class="am-form-field" placeholder="开户银行:">
+                <input type="text" name="bank_name" class="am-form-field" placeholder="开户银行:" minlength="1" required>
             </p>
             <p class="am-input-group am-input-group-secondary">
                 <span class="am-input-group-label"><i class="am-icon-sort-numeric-desc am-icon-fw"></i></span>
-                <input type="number" class="am-form-field" placeholder="开户银行账号:">
+                <input type="number" name="bank" class="am-form-field" placeholder="开户银行账号:" minlength="1" required>
             </p>
             <p>
                 <button type="sublimt" class="am-btn am-btn-secondary am-btn-block ">提交申请</button>

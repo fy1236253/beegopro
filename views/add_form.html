@@ -14,40 +14,41 @@
 </head>
 <body>
     <div class="am-container">
-        <form class="am-form" method="POST">
+        <form class="am-form" method="POST" data-am-validator>
         <h3 class="text-center">我要报名</h3>
         <p class="am-input-group am-input-group-secondary">
             <span class="am-input-group-label"><i class="am-icon-users am-icon-fw"></i></span>
-            <input type="text" class="am-form-field" placeholder="参赛单位:">
+            <input type="text" name="unit" class="am-form-field" placeholder="参赛单位:" minlength="1" required>
         </p>
 
         <p class="am-input-group am-input-group-secondary">
             <span class="am-input-group-label"><i class="am-icon-file-word-o am-icon-fw"></i></span>
-            <input type="text" class="am-form-field" placeholder="参赛作品名称:">
+            <input type="text" name="pro_name" class="am-form-field" placeholder="参赛作品名称:" minlength="1" required>
         </p>
 
         <p class="am-input-group am-input-group-secondary">
             <span class="am-input-group-label"><i class="am-icon-phone am-icon-fw"></i></span>
-            <input type="text" class="am-form-field" placeholder="联系人电话:">
+            <input type="number" name="tel" class="am-form-field" placeholder="联系人电话(手机):" pattern="^1\d{10}$"  required>
         </p>
 
         <p class="am-input-group am-input-group-secondary">
             <span class="am-input-group-label"><i class="am-icon-user am-icon-fw"></i></span>
-            <input type="text" name="name" class="am-form-field" placeholder="联系人姓名:">
+            <input type="text" name="user" class="am-form-field" placeholder="联系人姓名:" minlength="1" required>
         </p>
 
         <p class="am-input-group am-input-group-secondary">
             <span class="am-input-group-label"><i class="am-icon-envelope-o am-icon-fw"></i></span>
-            <input type="text" class="am-form-field" placeholder="邮箱">
+            <input type="email" name="email" class="am-form-field" placeholder="邮箱" required >
         </p>
         <p class="am-input-group am-input-group-secondary">
             <span class="am-input-group-label"><i class="am-icon-anchor am-icon-fw"></i></span>
-            <input type="text" class="am-form-field" placeholder="通讯地址:">
+            <input type="text" name="address" class="am-form-field" placeholder="通讯地址:"  minlength="1" required >
         </p>
         <p>
             <button type="sublimt" class="am-btn am-btn-secondary am-btn-block ">确认参与</button>
         </p>
         </form>
     </div>
+    <form action="" class="am-form">
 </body>
 </html>
