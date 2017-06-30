@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "beegopro/routers"
 	"fmt"
 	"log"
 	"os"
