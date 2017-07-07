@@ -387,3 +387,1303 @@ PID.37232 2017/06/30 14:56:01 default.go:40: 发给
 2017/06/30 16:54:10 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   3.508554ms|   match|[44m GET     [0m /bill/show   r:/bill/show/*
 2017/06/30 16:54:23 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    387.938µs|   match|[46m POST    [0m /bill/show   r:/bill/show/*
 2017/06/30 16:54:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    812.585µs|   match|[44m GET     [0m /bill/show   r:/bill/show/*
+2017/07/07 10:50:21 [I] [asm_amd64.s:2086] http server Running on http://:8080
+2017/07/07 10:50:21 [I] [asm_amd64.s:2086] Admin server Running on :8088
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    883.689µs|   match|[44m GET     [0m /     r:/
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    334.962µs|   match|[44m GET     [0m /static/css/swiper-3.4.2.min.css
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    1.90003ms|   match|[44m GET     [0m /static/js/swiper.min.js
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.419741ms|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    606.063µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    850.205µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.602271ms|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/07 10:50:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   2.129774ms|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|        460µs|   match|[44m GET     [0m /     r:/
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    131.391µs|   match|[44m GET     [0m /static/css/swiper-3.4.2.min.css
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    221.447µs|   match|[44m GET     [0m /static/js/swiper.min.js
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|   1.701621ms|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    108.892µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    119.651µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    111.873µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    134.325µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/07 10:51:12 [D] [server.go:2202] |  192.168.1.108|[43m 404 [0m|    269.562µs| nomatch|[44m GET     [0m /favicon.ico
+2017/07/07 10:51:40 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    675.873µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 10:51:40 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    189.048µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:11:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    451.357µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:11:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    121.171µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:11:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     345.64µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:11:28 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    504.841µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:11:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.479µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:11:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.041µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:11:48 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     508.61µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:11:48 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.733µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:11:48 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.443µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:38:24 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    621.209µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:38:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.152µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:38:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.676359ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:38:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     62.384µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:38:43 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.537701ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:38:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.125µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:38:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    435.401µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:38:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.493µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:39:38 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    490.353µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:39:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      57.63µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:39:53 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.469335ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:39:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.736µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:40:42 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    495.116µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:40:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.774µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:40:54 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.358578ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:40:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.572µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:41:38 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    500.546µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:41:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.477µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:41:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.693µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:43:19 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   2.083188ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:43:19 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     69.169µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:43:19 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.099µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:44:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    517.451µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:44:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.201µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:44:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.599µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:45:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.929564ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:45:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.206µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:45:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.775µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:45:40 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     514.76µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:45:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.316µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:45:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.696µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:45:57 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    483.966µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:45:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.784µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:45:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.974µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:46:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    533.812µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:46:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     71.579µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:46:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.918µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:47:19 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     573.48µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:47:19 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.652µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:47:19 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.222µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:47:46 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.255168ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:47:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.217µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:47:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.728µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:47:56 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    397.143µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:47:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      52.15µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:47:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      41.53µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:48:06 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    420.722µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:48:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.245µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:48:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.547µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:48:18 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    533.366µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:48:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.77µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:48:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.295µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:48:49 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    655.178µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:48:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      40.31µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:48:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.288µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:50:53 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    576.511µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:50:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.791µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:50:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.114µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:51:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    571.972µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:51:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      54.12µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:51:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.878µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:51:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    583.026µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:51:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.033µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:51:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     61.292µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:55:57 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    569.958µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:55:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.939µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:55:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.922µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:56:13 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    579.857µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:56:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.095µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:56:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.212µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:56:24 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    367.873µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:56:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     65.444µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:56:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.331µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:57:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    1.93333ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:57:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.604µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:57:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       74.6µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:57:41 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    566.657µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:58:24 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    505.618µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:58:27 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    525.126µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:58:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    370.149µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:58:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      59.89µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:58:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.019µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:59:20 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   2.309824ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:59:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.675µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 11:59:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.751µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:59:52 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    451.236µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 11:59:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.696µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 11:59:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.172µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:00:04 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    416.172µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.146µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.937µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:00:04 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    227.942µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:00:42 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    627.364µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:00:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.159µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:00:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      69.25µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:00:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.332µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:02:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    487.194µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:02:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.826µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:02:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.167µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:02:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.842µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:02:46 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    608.287µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:02:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         55µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:02:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.646µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:02:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.173µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:03:10 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    551.759µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:03:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.472µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:03:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.066µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:03:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.612µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:07:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.712817ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:07:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.033µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:07:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.938µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:07:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.371µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:07:53 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     659.57µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:07:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.729µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:07:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.265µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:07:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.876µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:08:32 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.269833ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:08:32 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.372µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:08:32 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.761µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:08:32 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.513µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:08:41 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    559.292µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:08:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.63µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:08:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     70.385µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:08:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.536µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:08:51 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|        566µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:08:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.992µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:08:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.577µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:08:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.618µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:09:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    558.292µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:09:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.383µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:09:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.427µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:09:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.672µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:11:27 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    618.594µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:11:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.124µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:11:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.959µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:11:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.942µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:13:39 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    680.136µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:13:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.743µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:13:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.848µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 12:13:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      55.95µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:13:39 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    1.06332ms|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 12:15:14 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    616.613µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 12:15:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.443µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 12:15:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.663µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 12:15:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      18.38µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 12:15:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.133µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:14:42 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    688.412µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:14:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         58µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:14:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         68µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:14:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         35µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:14:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.882µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:15:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    652.566µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:15:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.696µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:15:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.351µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:15:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.236µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:15:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.852µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:24:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    719.087µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:24:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.956µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:24:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      40.97µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:24:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.907µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:24:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.417µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:24:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    186.458µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:24:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    155.685µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:25:38 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    683.895µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:25:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.711µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:25:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.873µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:25:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.366µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:25:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.257µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:25:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.681µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:25:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         81µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:26:00 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.211811ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:26:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.284µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:26:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.325µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:26:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.287µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:26:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.862µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:26:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    104.325µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:26:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.426µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:26:20 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    694.154µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:26:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.23µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:26:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.933µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:26:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.248µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:26:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.258µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:26:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     78.905µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:26:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.205µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:26:39 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    624.603µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:26:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      58.42µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:26:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.588µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:26:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.268µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:26:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.224µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:26:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.684µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:26:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.791µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:28:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    2.82004ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:28:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.611µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:28:02 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.475µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:28:02 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.249µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:28:02 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      61.62µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:28:02 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.691µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:28:02 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.003µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:29:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     632.45µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:29:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.088µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:29:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.142µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:29:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.483µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:29:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.164µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:29:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     67.884µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:29:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.144µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:29:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    621.777µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:29:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.027µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:29:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.802µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:29:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.343µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:29:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.568µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:29:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.185µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:29:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.887µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:30:37 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    690.087µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:30:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.864µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:30:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     62.562µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:30:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.788µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:30:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.712µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:30:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.514µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:30:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.214µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:32:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    679.264µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:32:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.042µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:32:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.569µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:32:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.667µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:32:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.332µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:32:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.228µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:32:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.513µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:32:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    678.104µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:32:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.797µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:32:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.175µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:32:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      27.73µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:32:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.428µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:32:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.456µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:32:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.123µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:34:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    711.909µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:34:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.772µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:34:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.999µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:34:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.047µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:34:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.344µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:34:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.243µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:34:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.591µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:34:47 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     655.77µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:34:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.135µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:34:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      43.77µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:34:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.283µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:34:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.787µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:34:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.072µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:34:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.393µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:35:43 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.417475ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:35:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.546µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:35:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.537µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:35:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.572µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:35:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.808µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:35:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.431µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:35:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.255µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:36:49 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    653.082µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:36:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.266µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:36:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.202µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:36:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.997µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:36:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.987µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:36:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.549µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:36:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.186µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:38:58 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    714.018µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:38:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.437µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:38:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.908µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:38:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.954µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:38:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     83.207µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:38:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.532µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:38:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.846µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:39:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    715.404µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:39:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.152µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:39:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.808µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:39:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.533µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:39:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.506µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:39:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.317µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:39:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.302µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:40:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.740732ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:40:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.172µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:40:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.528µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:40:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      30.25µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:40:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.048µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:40:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.863µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:40:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.995µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:41:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     665.78µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:41:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.922µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:41:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.796µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:41:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.647µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:41:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.577µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:41:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.683µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:41:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.139µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:42:42 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.353734ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:42:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.624µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:42:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.012µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:42:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.428µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:42:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.259µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:43:41 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    698.776µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:43:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.951µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:43:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.123µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:43:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.076µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:43:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.114µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:43:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    139.227µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:43:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.005µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:43:58 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    754.465µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:43:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.842µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:43:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.435µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:43:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.036µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:43:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.13µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:43:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.544µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:43:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.164µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:44:20 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|      731.1µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:44:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.341µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:44:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.928µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:44:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.629µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:44:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.021µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:44:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.727µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:44:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.569µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:44:43 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.382134ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:44:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.773µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:44:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.234µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:44:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.999µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:44:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     62.374µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:44:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.894µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:44:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.125µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:45:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     701.54µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:45:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      52.76µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:45:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      46.63µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:45:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.023µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:45:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.586µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:45:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     95.485µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:45:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.427µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:45:54 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    655.213µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:45:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.136µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:45:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      44.37µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:45:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.319µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:45:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.775µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:45:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     86.614µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:45:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.187µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:47:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    751.627µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:47:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.034µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:47:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.264µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:47:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.286µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:47:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.862µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:47:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     84.036µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:47:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.131µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:47:21 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    657.037µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:47:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.343µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:47:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       42.5µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:47:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.398µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:47:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.366µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:47:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      57.91µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:47:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.607µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:47:49 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    668.878µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:47:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.958µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:47:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.521µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:47:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.053µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:47:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      40.57µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:47:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.221µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:47:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.768µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:48:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    737.512µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:48:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.845µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:48:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      40.93µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:48:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.026µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:48:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      47.98µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:48:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.894µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:48:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     67.827µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:48:16 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    735.561µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:48:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.343µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:48:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.656µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:48:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.344µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:48:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.498µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:48:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      52.21µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:48:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    118.485µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:48:37 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    746.333µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:48:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.608µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:48:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.455µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:48:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.594µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:48:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.842µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:48:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     88.128µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:48:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      44.71µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:49:13 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    2.41521ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:49:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.544µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:49:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.067µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:49:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      26.08µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:49:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.145µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:49:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       63.5µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:49:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.924µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:50:16 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    699.651µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:50:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.226µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:50:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.684µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:50:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.575µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:50:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     62.936µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:50:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       59.2µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:50:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.137µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:50:31 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    646.776µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:50:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.731µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:50:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.219µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:50:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.245µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:50:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.499µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:50:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.727µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:50:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     81.479µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:50:57 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    694.735µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:50:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.647µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:50:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.869µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:50:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.608µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:50:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      28.11µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:50:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.426µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:50:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.012µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:53:25 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    712.597µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:53:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.733µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:53:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.698µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:53:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.978µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:53:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.633µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:53:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.922µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:53:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.768µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:53:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    645.531µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:53:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.566µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:53:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.168µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:53:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.694µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:53:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.376µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:53:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.288µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:53:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.223µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:53:57 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     652.42µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:53:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.264µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:53:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.691µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:53:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.999µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:53:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      26.64µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:53:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.868µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:53:57 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     20.161µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:54:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   2.107456ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:54:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.702µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:54:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.762µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:54:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.691µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:54:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.431µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:54:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.618µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:54:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.392µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:54:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    592.137µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:54:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.125µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:54:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.799µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:54:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.518µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:54:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.777µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:54:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.158µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:54:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.347µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:56:56 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    725.732µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:56:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.159µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:56:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.406µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:56:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.384µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:56:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.955µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:56:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.234µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:56:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.283µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:57:28 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    733.725µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:57:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.606µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:57:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.373µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:57:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.341µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:57:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.189µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:57:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.901µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:57:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.757µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:57:37 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    652.184µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:57:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.75µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:57:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.991µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:57:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.127µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:57:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      35.13µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:57:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.423µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:57:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.976µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:58:30 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     697.13µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:58:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.298µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:58:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.416µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:58:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.209µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:58:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.346µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:58:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      50.12µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:58:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      64.13µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:58:43 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     674.54µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:58:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.452µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:58:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     98.511µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:58:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.86µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:58:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.234µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:58:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.927µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:58:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     97.266µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 14:59:00 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.628803ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 14:59:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.186µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 14:59:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.314µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 14:59:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.429µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 14:59:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.131µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 14:59:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.679µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 14:59:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.014µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:00:04 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|        718µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.717µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      39.01µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.536µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.481µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     65.141µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:00:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.971µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:00:40 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    713.087µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:00:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.254µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:00:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.639µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:00:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.311µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:00:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.078µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:00:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      35.23µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:00:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.288µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:00:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    655.545µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:00:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.935µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:00:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.696µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:00:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.276µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:00:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.664µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:00:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.818µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:00:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.448µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:01:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    1.46398ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:01:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       53.9µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:01:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.318µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:01:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.994µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:01:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.828µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:01:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.918µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:01:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.272µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:01:23 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    720.522µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:01:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.294µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:01:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.425µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:01:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      29.46µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:01:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.233µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:01:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.419µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:01:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.384µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:01:31 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    715.803µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:01:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.412µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:01:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.656µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:01:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.901µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:01:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.902µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:01:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.195µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:01:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.454µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:01:56 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    671.077µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:01:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.807µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:01:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.567µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:01:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.387µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:01:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.026µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:01:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.421µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:01:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.848µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:02:42 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    797.969µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:02:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.855µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:02:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.711µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:02:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.391µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:02:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.612µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:02:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.331µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:02:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    714.879µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:02:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.394µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:02:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.279µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:02:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.249µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:02:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.161µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:02:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.302µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:02:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.123µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:04:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    757.523µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:04:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.491µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:04:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.446µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:04:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.193µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:04:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    160.334µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:04:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.623µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:04:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.436µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:04:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    563.643µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:04:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.92µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:04:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.971µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:04:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.085µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:04:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.192µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:04:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.361µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:04:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.188µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:05:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    729.209µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:05:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.509µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:05:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.169µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:05:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.012µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:05:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.645µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:05:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.92µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:05:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.344µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:08:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    658.018µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:08:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.962µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:08:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.633µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:08:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.478µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:08:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.857µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:08:38 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    604.148µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:08:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.127µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:08:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.116µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:08:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.583µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:08:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.311µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:08:51 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    669.749µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:08:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.115µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:08:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.299µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:08:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.554µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:08:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.788µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:09:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    538.964µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:09:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.672µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:09:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.847µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:09:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     21.476µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:09:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       36.5µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:09:23 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|      661.9µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:09:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.724µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:09:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.316µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:09:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.579µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:09:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.532µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:10:22 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.961861ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:10:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.266µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:10:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.029µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:10:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       31.2µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:10:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.654µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:10:31 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    508.578µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:10:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.926µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:10:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.378µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:10:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.139µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:10:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.615µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:11:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    672.903µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:11:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.256µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:11:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.536µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:11:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.497µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:11:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.991µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:11:30 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    574.545µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:11:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.625µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:11:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         43µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:11:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         25µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:11:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.402µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:11:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.291µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:11:46 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|        668µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:11:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.078µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:11:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.651µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:11:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.516µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:11:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.541µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:11:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.165µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:12:04 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    673.715µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:12:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.771µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:12:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.759µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:12:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.372µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:12:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.736µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:12:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.633µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:12:17 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    674.693µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:12:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.484µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:12:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.476µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:12:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.843µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:12:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     74.769µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:12:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.136µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:12:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.311674ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:12:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.539µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:12:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.016µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:12:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.916µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:12:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.359µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:12:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.285µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:12:49 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    717.724µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:12:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.768µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:12:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.813µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:12:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.131µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:12:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.739µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:12:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.056µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:13:09 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    653.226µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:13:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.373µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:13:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.785µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:13:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.803µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:13:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.184µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:13:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.999µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:13:24 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    572.011µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:13:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.099µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:13:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.971µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:13:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     21.857µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:13:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.625µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:13:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      27.92µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:13:40 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    699.812µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:13:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.196µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:13:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.302µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:13:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.083µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:13:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     65.212µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:13:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.215µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:14:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    706.514µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:14:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.658µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:14:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.389µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:14:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.706µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:14:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.052µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:14:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.653µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:14:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.116µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:16:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    820.839µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:16:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.012µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:16:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.604µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:16:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.266µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:16:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.764µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:16:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.853µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:16:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         49µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:17:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.822348ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:17:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.731µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:17:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.263µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:17:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.008µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:17:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.124µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:17:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      29.15µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:17:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.367µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:17:16 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.066651ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:17:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.307µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:17:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.902µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:17:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      38.17µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:17:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.913µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:17:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      33.19µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:17:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.737µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:18:14 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    877.612µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:18:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.362µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:18:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.545µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:18:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.387µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:18:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.533µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:18:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|        107µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:18:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         39µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:18:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    694.547µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:18:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.803µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:18:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.525µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:18:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.982µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:18:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.274µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:18:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      34.74µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:18:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.491µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:20:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    754.653µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:20:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      50.29µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:20:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.656µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:20:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.253µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:20:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.965µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:20:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      37.92µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:20:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.921µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:20:23 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    672.617µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:20:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      41.98µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:20:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      43.82µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:20:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    111.037µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:20:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.852µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:20:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.478µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:20:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      27.79µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:20:53 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    675.558µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:20:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.857µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:20:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.095µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:20:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.115µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:20:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.308µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:20:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.422µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:20:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.355µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:21:09 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    751.894µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:21:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.786µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:21:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      43.15µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:21:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.801µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:21:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.982µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:21:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.092µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:21:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.999µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:21:31 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    695.629µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:21:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.221µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:21:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.674µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:21:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.696µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:21:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.175µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:21:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     93.434µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:21:31 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.691µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:23:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    739.067µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:23:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.506µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:23:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.921µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:23:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.265µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:23:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.407µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:23:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.548µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:23:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     74.713µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:23:54 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    732.652µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:23:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.092µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:23:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.262µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:23:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.271µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:23:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     63.759µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:23:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.827µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:23:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.042µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:24:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    707.462µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:24:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.786µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:24:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.927µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:24:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    142.215µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:24:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.983µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:24:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.812µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:24:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.673µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:24:34 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.053794ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:24:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.034µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:24:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.981µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:24:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.274µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:24:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.303µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:24:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.054µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:24:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      26.84µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    761.915µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.339µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.712µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.592µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.297µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    114.277µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.419µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:25:33 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|      145.9µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.489443ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      53.22µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       38.2µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     64.358µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      46.08µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.583µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.231µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:26:42 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.388µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    904.909µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.316µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.392µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.631µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.752µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.711µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.587µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.828µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:26:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    160.862µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    816.074µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.592µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.063µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.516µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.764µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.358µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.953µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.317µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:27:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      50.51µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    617.384µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.866µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.095µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.449µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.645µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.025µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.268µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     71.469µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:31:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.922µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    865.489µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.068µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.852µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.314µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.942µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.465µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.578µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    144.059µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:35:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.374µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    796.557µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.896µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.392µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.607µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.403µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.553µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.925µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.785µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:35:40 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.405µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:37:40 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    874.974µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.783µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.718µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.374µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.751µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.918µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      29.07µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.104µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.156µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:37:41 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     171.48µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    884.999µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.666µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.231µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.228µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.101µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.605µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.993µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.808µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.245µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:38:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.172µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    854.932µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.446µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.771µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.974µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.738µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.765µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      42.58µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.019µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.096µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:38:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.395µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    840.065µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.578µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.118µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.384µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.076µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.771µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.293µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.778µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      24.52µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:39:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.756µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     897.05µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.673µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.732µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.688µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      36.61µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.579µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.208µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      26.84µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.733µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:39:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.218µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:44:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    978.538µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:44:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.318µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:44:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.452µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.655µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.894µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.997µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     77.648µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     61.332µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    159.219µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    238.088µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    349.039µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    133.123µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    115.749µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    233.645µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:44:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    308.531µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:45:46 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    965.636µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:45:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.106µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:45:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.215µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:45:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.545µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:45:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.308µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:45:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      63.26µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.792µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.655µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.027µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.799µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.602µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     62.617µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      30.43µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.476µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:45:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.601µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     989.32µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      54.67µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.364µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.925µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.242µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      50.94µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.505µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.331µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.301µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.363µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.248µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.802µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.057µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.382µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:46:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      28.97µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.000304ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.944µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.078µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.155µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.951µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.645µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      30.28µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.592µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      44.31µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.985µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.857µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.602µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.506µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     21.162µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:46:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.592µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    970.426µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         57µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.296µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    110.537µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.269µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         31µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.781µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     18.856µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.922µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     80.957µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.709µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.043µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      39.56µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:47:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      46.71µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:47:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      53.15µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.769131ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.227µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.164µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     80.695µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.728µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     80.514µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.763µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.844µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.036µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.037µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       36.6µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     91.175µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.109µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.132µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:47:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.561µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    962.351µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.893µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.289µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.703µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.761µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.474µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.143µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.875µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.621µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.688µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.064µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.329µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.569µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.975µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:49:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.641µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    954.718µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.045µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.865µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.762µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      32.06µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.016µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.78µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      32.74µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.772µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.329µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.219µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.125µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     126.91µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.873µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:49:37 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.223µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.009256ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.087µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      50.62µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.278µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.347µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.937µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     85.359µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.374µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.337µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    123.482µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      27.36µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.321µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.236µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.367µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:51:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     65.832µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    943.682µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.858µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.043µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.975µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.576µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.626µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.036µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.203µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.702µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.586µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.811µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      23.89µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.794µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.955µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:51:30 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     75.463µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    954.025µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.952µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.267µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.349µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.465µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.481µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.876µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.154µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      26.53µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.581µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:51:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      36.08µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:51:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      36.79µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:51:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.381µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:51:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.736µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:51:44 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      30.65µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 15:59:28 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.023752ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.886µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.665µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      40.82µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.721µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.115µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.004µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      38.99µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.274µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    146.838µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    236.183µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    150.993µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    174.673µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    171.738µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 15:59:29 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.102µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    937.033µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.906µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.312µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     82.507µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.507µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.506µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.884µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.546µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.079µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.567µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     20.309µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.818µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     61.042µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.691µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:00:06 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    237.092µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   2.214668ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.939µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.512µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.143µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         65µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         72µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.213µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      49.02µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.724µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.782µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     69.226µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.417µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.013µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.961µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:01:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.213µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:02:22 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     945.43µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.953µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.393µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.109µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      36.42µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      44.98µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.739µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.562µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.583µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.993µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      41.32µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.042µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.256µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.756µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:02:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      45.93µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    966.982µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.986µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.085µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.742µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.677µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.865µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.586µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.934µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.903µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.083µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     21.811µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.073µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.919µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.069µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:05:10 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      37.12µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.099351ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.312µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      39.15µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.279µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.656µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.043µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.106µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:11:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    223.507µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:12:59 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   4.336818ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:12:59 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.013µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:12:59 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.642µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:12:59 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.687µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:12:59 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.686µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:12:59 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.284µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.265µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      29.42µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.731µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      42.52µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.678µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.469µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.659µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.865µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.765µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:13:00 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.772µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:13:06 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    570.903µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    956.622µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.837µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.637µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.592µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.434µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.527µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.313µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.366µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         45µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         61µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.916µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.057µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.459µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.502µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.207µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:13:28 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      24.78µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:13:37 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    966.474µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.521604ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.891µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.347µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.831µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.174µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      41.35µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.616µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.807µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.197µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.034µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.427µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.093µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.532µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.091µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.547µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:15:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         33µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    894.316µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.274µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.412µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.629µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      31.96µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.406µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.721µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.617µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.966µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.235µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.231µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     21.536µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.593µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      28.09µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.965µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:15:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.242µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:15:46 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    980.787µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:15:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.893µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:15:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.319µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:15:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.458µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:15:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.447µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:15:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.529µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:15:46 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.525µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.179µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.121µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.445µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    119.604µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.575µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.917µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.637µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.791µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:15:47 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     82.489µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:15:51 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    949.199µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.802µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.028µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.408µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.186µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.123µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.816µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     19.525µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.184µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      29.48µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.917µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.814µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.136µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.838µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.495µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:15:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.281µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    967.677µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.187µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      54.54µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.589µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.393µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.701µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.864µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.453µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.063µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.071µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.431µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.396µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         77µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         22µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         25µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:16:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.013µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    984.079µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.932µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.809µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.075µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.149µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     71.078µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.625µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.126µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      25.51µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     75.823µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      44.32µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.454µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.638µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.623µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.835µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:18:11 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.756µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     983.59µs|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.973µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.362µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     22.563µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.502µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     74.974µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.037µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.898µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.902µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.959µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.104µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.516µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     25.278µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.361µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.735µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/07 16:18:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.474µs|   match|[44m GET     [0m /static/img/bg-footer.png
