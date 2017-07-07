@@ -8,12 +8,16 @@
     <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <!--<link href="https://cdn.bootcss.com/ionic/1.3.2/css/ionic.css" rel="stylesheet">-->
     <!--<script src="https://cdn.bootcss.com/ionic/1.3.2/js/ionic.bundle.min.js"></script>-->
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
     <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.7.2/css/amazeui.min.css">
+    <link rel="stylesheet" href="../static/css/jquery.fullPage.css">
+    <script src="../static/js/jquery.fullPage.min.js"></script>
     <title>德真</title>
 </head>
 <style>
     * {
         padding: 0;
+        margin: 0;
     }
 
     .bg-banner {
@@ -24,6 +28,10 @@
         margin-top: 20px;
     }
 
+    .mtop10 {
+        margin-top: 10px;
+    }
+
     .mtop40 {
         margin-top: 40px;
     }
@@ -31,7 +39,7 @@
     .banner00 {
         border: 1px solid #ddd;
         width: 48%;
-        height: 260px;
+        height: 241px;
         margin-left: 2%;
         margin-top: 2%;
     }
@@ -41,109 +49,153 @@
     }
 
     .banner00 img {
-        width: 100px;
+        width: 80px;
         margin: 0 auto;
+    }
+
+    .banner-s {
+        padding: 4px;
+        font-size: 14px;
+        height: 142px;
+    }
+
+    .am-u-sm-* {
+        padding: 0;
+    }
+
+    @media (min-width: 1000px) {
+        .banner-s {
+            font-size: 16px;
+        }
+        .top-img {
+            display: none;
+        }
+        .bg-banner {
+            margin-top: 0;
+        }
     }
 </style>
 
 <body>
-    <div class="am-container">
-        <div class="am-g">
-            <img src="../static/img/riclebg.png" class="am-img-responsive" alt="">
-            <div class="am-u-sm-6 am-u-md-6 am-u-lg-4 am-u-sm-offset-3 am-u-lg-offset-4 bg-banner">
-                <img class="am-img-responsive" alt="" src="../static/img/logo.png" width="" height="" />
+    <div id="dowebok">
+        <div class="section">
+            <div class="am-container">
+                <div class="am-g">
+                    <img class="am-img-responsive top-img" alt="" src="../static/img/riclebg.png" width="" height="" />
+                    <div class="am-u-sm-6 am-u-md-6 am-u-sm-centered am-u-lg-4 bg-banner">
+                        <img class="am-img-responsive" alt="" src="../static/img/logo.png" width="" height="" />
+                    </div>
+                </div>
+                <div class="am-g am-g-4 mtop">
+                    <div class="am-u-sm-9 am-u-md-2 am-u-lg-8 am-u-lg-offset-4 am-u-sm-offset-2">
+                        用户体验相关高端资源整合平台,</br>围绕用户体验开发运营增值服务
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="am-g am-g-4 mtop">
-            <div class="am-u-sm-9 am-u-md-2 am-u-lg-8 am-u-lg-offset-4 am-u-sm-offset-2">
-                用户体验相关高端资源整合平台,</br>围绕用户体验开发运营增值服务
-            </div>
-        </div>
-    </div>
-    <div class="am-container mtop40">
-        <h1 class="am-text-center">愿景</h1>
-        <div class="am-g">
-            <div class="am-u-sm-10 am-u-lg-8 am-u-sm-centered">
-                <img class="am-img-responsive" alt="" src="../static/img/wish.png" width="" height="" />
-            </div>
-            <div class="am-u-sm-8 am-u-lg-612  am-u-sm-centered mtop">
-                <img class="am-img-responsive" alt="" src="../static/img/value.png" width="" height="" />
-            </div>
+        <div class="section">
+            <div class="am-container">
+                <h1 class="am-text-center mtop">愿景</h1>
+                <div class="am-g">
+                    <div class="am-u-sm-10 am-u-lg-8 am-u-sm-centered">
+                        <img class="am-img-responsive" alt="" src="../static/img/wish.png" width="" height="" />
+                    </div>
+                    <div class="am-u-sm-8 am-u-lg-4  am-u-sm-centered mtop">
+                        <img class="am-img-responsive" alt="" src="../static/img/value.png" width="" height="" />
+                    </div>
 
-        </div>
-    </div>
-    <div class="am-container mtop40">
-        <h1 class="am-text-center">服务</h1>
-        <div class="am-g">
-            <div class="am-u-sm-12 am-u-lg-8 am-u-sm-centered">
-                <div class="banner00 am-fl">
-                    <div class="am-panel-bd">
-                        <img class="am-img-responsive" alt="" src="../static/img/banner01.png" width="" height="" />
-                    </div>
-                    <footer style="padding:4px;font-size:14px;height:143px;" class="am-panel-footer">
-                        <dd>● 依托中央和地方政府关系、前沿学术研究和产业领袖高端资源提供</dd>
-                        <dd>● 政府关系公关</dd>
-                        <dd>● 学术研究成果共享</dd>
-                        <dd>● 高端交流和资源共享</dd>
-                    </footer>
-                </div>
-                <div class="banner00 am-fl">
-                    <div class="am-panel-bd">
-                        <img class="am-img-responsive" alt="" src="../static/img/banner02.png" width="" height="" />
-                    </div>
-                    <footer style="padding:4px;font-size:14px;height:143px;" class="am-panel-footer">
-                        <dd>● 中国用户体验创新大赛商业运营服务</dd>
-                        <dd>● 高级别定向的品牌、产品曝光宣传服务</dd>
-                    </footer>
-                </div>
-                <div class="banner00 am-fl">
-                    <div class="am-panel-bd">
-                        <img class="am-img-responsive" alt="" src="../static/img/banner03.png" width="" height="" />
-                    </div>
-                    <footer style="padding:4px;font-size:14px;height:142px;" class="am-panel-footer">
-                        <dd>● 用户体验机构价值管理</dd>
-                        <dd>● 政策性产业基金对接</dd>
-                    </footer>
-                </div>
-                <div class="banner00 am-fl">
-                    <div class="am-panel-bd">
-                        <img class="am-img-responsive" alt="" src="../static/img/banner04.png" width="" height="" />
-                    </div>
-                    <footer style="padding:4px;font-size:14px;height:142px;" class="am-panel-footer">
-                        <dd>● 国家、行业标准的制定、推广和应用服务高端培训</dd>
-                        <dd>● 用户体验规范化全流程建设咨询和实施高端技术、设备的输出代理</dd>
-                    </footer>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="am-container mtop40">
-        <h1 class="am-text-center">亮点</h1>
-        <div class="am-g icon">
-            <div class="am-u-sm-8 am-u-lg-8 am-u-sm-centered am-fl">
-                <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
-                    <img class="am-img-responsive" alt="" src="../static/img/icon01.png" width="" height="" />
-                </div>
-                <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
-                    <img class="am-img-responsive" alt="" src="../static/img/icon002.png" width="" height="" />
-                </div>
-                <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
-                    <img class="am-img-responsive" alt="" src="../static/img/icon003.png" width="" height="" />
-                </div>
-                <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
-                    <img class="am-img-responsive" alt="" src="../static/img/icon004.png" width="" height="" />
-                </div>
-                <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
-                    <img class="am-img-responsive" alt="" src="../static/img/icon005.png" width="" height="" />
-                </div>
-                <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
-                    <img class="am-img-responsive" alt="" src="../static/img/icon006.png" width="" height="" />
+        <div class="section">
+            <div class="am-container ">
+                <h1 class="am-text-center mtop10">服务</h1>
+                <div class="am-g">
+                    <div class="am-u-sm-12 am-u-lg-8 am-u-sm-centered">
+                        <div class="banner00 am-fl">
+                            <div class="am-panel-bd">
+                                <img class="am-img-responsive" alt="" src="../static/img/banner01.png" width="" height="" />
+                            </div>
+                            <footer class="am-panel-footer banner-s">
+                                <dd>● 依托中央和地方政府关系、前沿学术研究和产业领袖高端资源提供</dd>
+                                <dd>● 政府关系公关</dd>
+                                <dd>● 学术研究成果共享</dd>
+                                <dd>● 高端交流和资源共享</dd>
+                            </footer>
+                        </div>
+                        <div class="banner00 am-fl">
+                            <div class="am-panel-bd">
+                                <img class="am-img-responsive" alt="" src="../static/img/banner02.png" width="" height="" />
+                            </div>
+                            <footer class="am-panel-footer banner-s">
+                                <dd>● 中国用户体验创新大赛商业运营服务</dd>
+                                <dd>● 高级别定向的品牌、产品曝光宣传服务</dd>
+                            </footer>
+                        </div>
+                        <div class="banner00 am-fl">
+                            <div class="am-panel-bd">
+                                <img class="am-img-responsive" alt="" src="../static/img/banner03.png" width="" height="" />
+                            </div>
+                            <footer class="am-panel-footer banner-s">
+                                <dd>● 用户体验机构价值管理</dd>
+                                <dd>● 政策性产业基金对接</dd>
+                            </footer>
+                        </div>
+                        <div class="banner00 am-fl">
+                            <div class="am-panel-bd">
+                                <img class="am-img-responsive" alt="" src="../static/img/banner04.png" width="" height="" />
+                            </div>
+                            <footer class="am-panel-footer banner-s">
+                                <dd>● 国家、行业标准的制定、推广和应用服务高端培训</dd>
+                                <dd>● 用户体验规范化全流程建设咨询和实施高端技术、设备的输出代理</dd>
+                            </footer>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="mtop40">
-        <img class="am-img-responsive" alt="" src="../static/img/bg-footer.png" width="" height="" />
+        <div class="section">
+            <div class="am-container ">
+                <h1 class="am-text-center mtop40">亮点</h1>
+                <div class="am-g icon">
+                    <div class="am-u-sm-8 am-u-lg-8 am-u-sm-centered am-fl">
+                        <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
+                            <img class="am-img-responsive" alt="" src="../static/img/icon01.png" width="" height="" />
+                        </div>
+                        <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
+                            <img class="am-img-responsive" alt="" src="../static/img/icon002.png" width="" height="" />
+                        </div>
+                        <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
+                            <img class="am-img-responsive" alt="" src="../static/img/icon003.png" width="" height="" />
+                        </div>
+                        <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
+                            <img class="am-img-responsive" alt="" src="../static/img/icon004.png" width="" height="" />
+                        </div>
+                        <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
+                            <img class="am-img-responsive" alt="" src="../static/img/icon005.png" width="" height="" />
+                        </div>
+                        <div class="am-u-sm-6 am-u-lg-4 mtop am-fl">
+                            <img class="am-img-responsive" alt="" src="../static/img/icon006.png" width="" height="" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="am-container">
+                <div class="am-g" style="position:absolute;bottom:0;">
+                    <img class="am-img-responsive" alt="" src="../static/img/bg-footer.png" width="" height="" />
+                </div>
+            </div>
+        </div>
     </div>
 </body>
+<script>
+    $(function () {
+        $('#dowebok').fullpage({
+            scrollOverflow: true,
+            verticalCentered: false,
+        });
+    });
+
+</script>
+
 </html>
