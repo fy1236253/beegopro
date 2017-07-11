@@ -42,6 +42,7 @@
         height: 241px;
         margin-left: 2%;
         margin-top: 2%;
+        background: #fff;
     }
 
     .padding20 {
@@ -63,6 +64,11 @@
         padding: 0;
     }
 
+    .banner-bg {
+        background: url("../static/img/banner-bg.png") no-repeat;
+        background-size: auto 100%;
+    }
+
     @media (min-width: 1000px) {
         .banner-s {
             font-size: 16px;
@@ -72,6 +78,9 @@
         }
         .bg-banner {
             margin-top: 0;
+        }
+        .banner-bg {
+            background-image: none;
         }
     }
 </style>
@@ -107,11 +116,11 @@
                 </div>
             </div>
         </div>
-        <div class="section">
+        <div class="section banner-bg">
             <div class="am-container ">
                 <h1 class="am-text-center mtop10">服务</h1>
                 <div class="am-g">
-                    <div class="am-u-sm-12 am-u-lg-8 am-u-sm-centered">
+                    <div class="am-u-sm-12 am-u-lg-8 am-u-sm-centered ">
                         <div class="banner00 am-fl">
                             <div class="am-panel-bd">
                                 <img class="am-img-responsive" alt="" src="../static/img/banner01.png" width="" height="" />
