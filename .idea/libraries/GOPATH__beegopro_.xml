@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;beegopro&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../http" />
+      <root url="file://$PROJECT_DIR$/../db" />
+      <root url="file://$PROJECT_DIR$/../cron" />
+      <root url="file://$PROJECT_DIR$/../mp" />
+      <root url="file://$PROJECT_DIR$/../mq" />
+      <root url="file://$PROJECT_DIR$/../cfg" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../g" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../wechat" />
+      <root url="file://$PROJECT_DIR$/../redis" />
+      <root url="file://$PROJECT_DIR$/../beepro" />
+      <root url="file://$PROJECT_DIR$/../component" />
+      <root url="file://$PROJECT_DIR$/../dezhen" />
+      <root url="file://$PROJECT_DIR$/../util" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../http" />
+      <root url="file://$PROJECT_DIR$/../db" />
+      <root url="file://$PROJECT_DIR$/../cron" />
+      <root url="file://$PROJECT_DIR$/../mp" />
+      <root url="file://$PROJECT_DIR$/../mq" />
+      <root url="file://$PROJECT_DIR$/../cfg" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../g" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../wechat" />
+      <root url="file://$PROJECT_DIR$/../redis" />
+      <root url="file://$PROJECT_DIR$/../beepro" />
+      <root url="file://$PROJECT_DIR$/../component" />
+      <root url="file://$PROJECT_DIR$/../dezhen" />
+      <root url="file://$PROJECT_DIR$/../util" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

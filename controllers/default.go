@@ -33,7 +33,7 @@ func (c *MainController) Post() {
 	log.Println(name)
 }
 func (c *HomeController) Get() {
-	c.TplName = "amaui.html"
+	c.TplName = "index.html"
 }
 func (c *FormController) Get() {
 	c.TplName = "add_form.html"
@@ -87,4 +87,7 @@ func (this *BillController) Show() {
 	} else {
 		this.TplName = "bill.html"
 	}
+}
+func(this *BillController)Pay(){
+	this.TplName = "pay.html"
 }

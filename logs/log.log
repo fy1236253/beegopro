@@ -3733,3 +3733,519 @@ PID.37232 2017/06/30 14:56:01 default.go:40: 发给
 2017/07/11 16:35:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.611µs|   match|[44m GET     [0m /static/img/icon006.png
 2017/07/11 16:35:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.908µs|   match|[44m GET     [0m /static/img/bg-footer.png
 2017/07/11 16:35:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.318µs|   match|[44m GET     [0m /static/img/banner-bg.png
+2017/07/12 14:27:09 [I] [asm_amd64.s:2086] http server Running on http://:8080
+2017/07/12 14:27:09 [I] [asm_amd64.s:2086] Admin server Running on :8088
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.596723ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    245.184µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    362.384µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|   1.383559ms|   match|[44m GET     [0m /static/img/wish.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    170.493µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    828.153µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    333.757µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    212.142µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     79.856µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    230.294µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    275.227µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      91.46µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    158.246µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|   1.096845ms|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|   1.411047ms|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/12 14:27:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    427.194µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/12 14:27:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|   1.405143ms|   match|[44m GET     [0m /static/img/banner-bg.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|   1.277551ms|   match|[44m GET     [0m /web/show   r:/web/show/*
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    121.363µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    175.263µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    222.835µs|   match|[44m GET     [0m /static/img/riclebg.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     79.207µs|   match|[44m GET     [0m /static/img/logo.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|      91.36µs|   match|[44m GET     [0m /static/img/wish.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     89.286µs|   match|[44m GET     [0m /static/img/value.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     81.273µs|   match|[44m GET     [0m /static/img/banner01.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     78.999µs|   match|[44m GET     [0m /static/img/banner02.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    101.791µs|   match|[44m GET     [0m /static/img/banner03.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    131.163µs|   match|[44m GET     [0m /static/img/banner04.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     64.682µs|   match|[44m GET     [0m /static/img/icon01.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     78.284µs|   match|[44m GET     [0m /static/img/icon002.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    148.917µs|   match|[44m GET     [0m /static/img/icon003.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    237.604µs|   match|[44m GET     [0m /static/img/icon004.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|    147.845µs|   match|[44m GET     [0m /static/img/icon005.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     76.626µs|   match|[44m GET     [0m /static/img/icon006.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[42m 200 [0m|     81.685µs|   match|[44m GET     [0m /static/img/bg-footer.png
+2017/07/12 14:28:44 [D] [server.go:2202] |  192.168.1.108|[43m 404 [0m|    295.485µs| nomatch|[44m GET     [0m /favicon.ico
+2017/07/12 14:29:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    586.445µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:29:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    422.352µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:29:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    459.097µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:29:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    553.697µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:29:27 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    574.946µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:29:49 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    602.702µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:29:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      45.01µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:29:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     93.548µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:29:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     80.643µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:29:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.614µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:29:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.922µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:29:49 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.514µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:30:12 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.115727ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     75.766µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.473µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.323µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.648µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.687µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.791µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:30:22 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    527.148µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:30:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    138.567µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:30:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.976µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:30:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.578µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:30:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.578µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:30:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     24.158µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:30:23 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.485µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:31:56 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    575.859µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:31:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.503µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:31:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.933µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:31:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.198µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:31:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      53.12µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:31:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.528µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:31:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    139.717µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:32:09 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    532.062µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:33:04 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.228593ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:33:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.169µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:33:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.663µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:33:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    133.177µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:33:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.706µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:33:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.326µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:33:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.532µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:33:18 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    500.755µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:33:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.535µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:33:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.586µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:33:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.276µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:33:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.762µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:33:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.981µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:33:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      35.28µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:35:09 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.293737ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:35:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      54.66µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:35:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.493µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:35:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.633µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:35:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.135µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:35:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      34.79µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:35:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.737µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    720.066µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      62.59µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.477µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     195.75µs|   match|[44m GET     [0m /static/css/swiper-3.4.2.min.css
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.027µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    125.683µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      61.36µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:35:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.478µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    557.557µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     216.11µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.606µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.349µs|   match|[44m GET     [0m /static/css/swiper-3.4.2.min.css
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.828µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.219µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.672µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:35:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.541µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:38:34 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    567.003µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:38:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.932µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:38:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      50.78µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:38:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.531µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:38:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.858µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:38:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.849µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:38:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.465µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:39:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    553.592µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:39:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     62.454µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:39:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.272µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:39:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.688µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:39:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.304µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:39:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      37.25µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:39:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.672µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:39:51 [I] [asm_amd64.s:2086] http server Running on http://:8080
+2017/07/12 14:39:51 [I] [asm_amd64.s:2086] Admin server Running on :8088
+2017/07/12 14:39:57 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    757.229µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:41:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|        667µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:41:33 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    596.468µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:41:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     502.42µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:41:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    119.068µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:41:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    256.969µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:41:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    112.473µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:41:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    257.797µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:41:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    302.588µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:41:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.370689ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:41:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.121µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:41:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.642µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:41:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.733µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:41:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.348µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:41:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.861µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:41:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.926µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:47:18 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    606.157µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:49:38 [I] [asm_amd64.s:2086] http server Running on http://:8080
+2017/07/12 14:49:38 [I] [asm_amd64.s:2086] Admin server Running on :8088
+2017/07/12 14:49:46 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|      687.2µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:53:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    673.909µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:53:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    213.142µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:53:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     128.05µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:53:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    328.717µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:53:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    166.565µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:53:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    267.117µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:53:05 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    309.773µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:53:12 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     640.15µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:53:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     210.03µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:53:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      47.34µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:53:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.604µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:53:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.091µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:53:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     86.346µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:53:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.123µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:53:18 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    631.829µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:53:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.437µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:53:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     77.179µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:53:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.179µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:53:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     81.483µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:53:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.917µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:53:18 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.756µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.333629ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.995µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.804µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.496µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.787µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.316µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.622µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    252.918µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 14:54:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    361.622µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    623.147µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.574µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      49.76µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.967µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.031µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.142µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.902µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:55:14 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.987µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 14:55:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.347µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 14:58:52 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    640.051µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:58:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.812µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:58:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.063µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:58:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     67.015µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:58:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.724µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:58:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.023µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:58:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     81.926µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:58:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      42.49µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 14:58:53 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.496µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    634.518µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.183µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.317µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.903µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      27.49µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      29.69µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.838µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.187µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 14:59:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.991µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:02:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    684.267µs|   match|[44m GET     [0m /form   r:/form
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.226547ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    134.767µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.921µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.392µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.318µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.837µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.669µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.092µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:02:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.705µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:09:06 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    645.368µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    612.309µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.613µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     74.683µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    141.678µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.147µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.235µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.257µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.739µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      60.84µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:11:43 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.386µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    745.568µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    133.435µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     68.645µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    111.539µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.535µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    128.593µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.505µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.693µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.874µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:12:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    106.803µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    986.445µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    147.644µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.983µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    148.746µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.132µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      31.04µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.397µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.719µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.638µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:13:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.799µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    596.016µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     75.755µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.226µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    137.313µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.542µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.194µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     68.543µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.719µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.989µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:13:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.421µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    603.487µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    170.518µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    173.926µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    175.036µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.705µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.513µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     91.325µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.119µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     66.965µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:14:20 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     40.776µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    579.939µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.163µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|       32.6µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    115.397µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.086µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    176.047µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.461µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.181µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.119µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:14:45 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     30.399µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    562.096µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     49.784µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.211µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    107.873µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.781µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.479µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.254µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.939µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     83.052µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:15:08 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      35.46µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.576836ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.247µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.513µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    124.738µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.265µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      40.41µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.687µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     69.879µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      45.06µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:15:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.947µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    614.764µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     63.405µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.957µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     77.266µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     26.077µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.365µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     65.605µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     23.831µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.245µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:16:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.689µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    610.218µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.347µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      52.75µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    177.887µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.819µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.131µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     32.114µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.712µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:16:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     66.479µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    1.16303ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    133.594µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.317µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    148.356µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     71.309µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.527µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         43µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         43µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:17:36 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         37µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    613.341µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.277µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.335µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.685µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.335µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.976µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.325µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.653µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:19:01 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.739µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:19:51 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.020514ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:19:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     73.808µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:19:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.298µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:19:51 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.675µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:19:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.493µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:19:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.262µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:19:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.897µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:19:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      39.41µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:19:52 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.345µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:22:12 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    606.059µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:22:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     70.178µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    523.151µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     61.825µs|   match|[44m GET     [0m /static/css/jquery.fullPage.css
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.234µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.464µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.254µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      52.92µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     56.519µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     61.692µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:23:33 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      33.69µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.232014ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    182.472µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.262µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     39.004µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.132µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.523µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     71.166µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 15:24:09 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     28.076µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 15:27:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    569.241µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:27:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    153.732µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:27:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.798µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:27:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.601µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:27:15 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.972µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:28:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     572.35µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:28:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     61.224µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:28:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.486µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:28:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.216µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:28:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     27.344µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:29:13 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    564.249µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:29:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.477µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:29:13 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    185.388µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:29:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     42.221µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:29:13 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.287µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:29:34 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    537.989µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:29:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     95.271µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:29:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.423µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:29:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     77.587µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:29:34 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     36.406µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:29:56 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    521.164µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:29:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      42.28µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:29:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     57.233µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:29:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     38.642µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:29:56 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      32.84µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:30:12 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    599.538µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.775µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.281µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     37.048µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:30:12 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     29.879µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:30:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    585.779µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:30:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    158.787µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:30:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.619µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:30:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     35.191µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:31:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.058785ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:31:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    166.097µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:31:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      56.25µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:31:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.416µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:33:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|        544µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:33:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    392.641µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:33:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.657µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:33:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      51.87µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:33:42 [I] [asm_amd64.s:2086] http server Running on http://:8080
+2017/07/12 15:33:42 [I] [asm_amd64.s:2086] Admin server Running on :8088
+2017/07/12 15:33:48 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    770.047µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:33:48 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    542.805µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:34:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    544.187µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:35:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    558.271µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:35:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     68.062µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:35:17 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     549.28µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:35:17 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     189.43µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:35:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    196.376µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:35:17 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     196.51µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:39:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    610.107µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:39:05 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    139.469µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:39:26 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     497.79µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:39:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     46.205µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:39:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    124.653µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:39:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.505µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:39:26 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      38.62µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:40:16 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    492.235µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:40:16 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    507.069µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:40:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      46.81µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:40:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.137µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:40:16 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     31.021µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:41:58 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    544.788µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:41:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    168.365µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:41:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.827µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:41:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     61.745µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:41:58 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     43.795µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:42:35 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    502.184µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:42:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    155.627µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:42:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.384µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:42:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     41.759µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:42:35 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     251.12µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:43:21 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.238975ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:43:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     75.944µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:43:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.747µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:43:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.676µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:43:21 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     60.395µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:44:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    905.668µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:44:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    130.899µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:44:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.192µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:44:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.664µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:44:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     55.981µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:44:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    513.661µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:44:50 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    119.539µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:44:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     50.107µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:44:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     45.996µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:44:50 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     33.293µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:44:59 [I] [asm_amd64.s:2086] http server Running on http://:8080
+2017/07/12 15:44:59 [I] [asm_amd64.s:2086] Admin server Running on :8088
+2017/07/12 15:45:02 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    771.707µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:45:02 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    168.005µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:46:39 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    655.875µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:46:39 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    507.981µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:46:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    212.434µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:46:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    211.208µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:46:39 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     151.69µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:48:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    618.954µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:48:03 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     58.462µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:48:38 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    525.807µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:48:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    144.505µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:48:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     59.163µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:48:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     95.917µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:48:38 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     82.431µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 15:50:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    743.707µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:50:11 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    110.864µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:57:33 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    872.635µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:57:33 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    176.452µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:59:24 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    619.662µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 15:59:24 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     158.04µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 15:59:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|         57µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 15:59:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     63.544µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 15:59:24 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    141.599µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 16:00:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     556.45µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 16:00:07 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    179.412µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 16:00:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.561µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 16:00:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     78.759µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 16:00:07 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     53.797µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 16:01:06 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.187054ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 16:01:06 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    134.664µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 16:01:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.611µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 16:01:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     48.889µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 16:01:06 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     54.366µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 16:01:27 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    551.689µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 16:01:27 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    137.014µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 16:01:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     72.516µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 16:01:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     88.231µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 16:01:27 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     51.599µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    905.232µs|   match|[44m GET     [0m /home   r:/home
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     66.307µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     44.139µs|   match|[44m GET     [0m /static/js/jquery.fullPage.min.js
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     47.437µs|   match|[44m GET     [0m /static/img/IMG_01.png
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     34.606µs|   match|[44m GET     [0m /static/img/IMG_02.png
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    143.639µs|   match|[44m GET     [0m /static/img/IMG_03.png
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    162.678µs|   match|[44m GET     [0m /static/img/IMG_04.png
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    178.875µs|   match|[44m GET     [0m /static/img/IMG_05.png
+2017/07/12 16:02:25 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     52.602µs|   match|[44m GET     [0m /static/img/IMG_06.png
+2017/07/12 16:02:45 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    617.263µs|   match|[44m GET     [0m /form   r:/form
+2017/07/12 16:03:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   2.377621ms|   match|[46m POST    [0m /form   r:/form
+2017/07/12 16:03:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.627505ms|   match|[44m GET     [0m /static/img/code.jpeg
+2017/07/12 16:08:40 [I] [asm_amd64.s:2086] http server Running on http://:8080
+2017/07/12 16:08:40 [I] [asm_amd64.s:2086] Admin server Running on :8088
+2017/07/12 16:09:08 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|     723.54µs|   match|[44m GET     [0m /bill/pay   r:/bill/pay/*
+2017/07/12 16:16:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    549.966µs|   match|[44m GET     [0m /bill/pay   r:/bill/pay/*
+2017/07/12 16:18:04 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    618.398µs|   match|[44m GET     [0m /bill/pay   r:/bill/pay/*
+2017/07/12 16:18:04 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    215.047µs|   match|[44m GET     [0m /static/img/code.jpeg
+2017/07/12 16:18:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    483.799µs|   match|[44m GET     [0m /bill/pay   r:/bill/pay/*
+2017/07/12 16:18:55 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|     94.268µs|   match|[44m GET     [0m /static/img/code.jpeg
+2017/07/12 16:19:54 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.368991ms|   match|[44m GET     [0m /home   r:/home
+2017/07/12 16:19:54 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|      79.25µs|   match|[44m GET     [0m /static/css/common.css
+2017/07/12 16:20:03 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    724.961µs|   match|[44m GET     [0m /bill/show   r:/bill/show/*
+2017/07/12 16:20:15 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|        558µs|   match|[44m GET     [0m /download/page   r:/download/page/*
+2017/07/12 16:20:19 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|   1.204899ms|   match|[44m GET     [0m /download/page/1.txt   r:/download/page/*
+2017/07/12 16:20:22 [D] [server.go:2202] |  192.168.1.101|[47m 304 [0m|    155.121µs|   match|[44m GET     [0m /download/page/1.txt   r:/download/page/*
+2017/07/12 16:20:55 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    495.297µs|   match|[44m GET     [0m /bill/pay   r:/bill/pay/*
+2017/07/12 16:20:58 [D] [server.go:2202] |  192.168.1.101|[42m 200 [0m|    573.028µs|   match|[44m GET     [0m /home   r:/home

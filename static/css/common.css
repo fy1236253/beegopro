@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.join {
+    background: url("../img/IMG_06.png");
+    -webkit-background-size:100%;
+    background-size:100%;
+    position: relative;
+}
+
+.sub {
+    position: absolute;
+    width: 150px;
+    top: 25%;
+    left: 30%;
+}
+.section{
+    overflow: hidden;
+}
+@media (min-width: 1024px) {
+    img {
+        max-height:800px;
+        width: auto;
+    }
+    .join {
+        background: none;
+
+    }
+}
