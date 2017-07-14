@@ -35,6 +35,12 @@ func (c *MainController) Post() {
 func (c *HomeController) Get() {
 	c.TplName = "index.html"
 }
+func (c *WebController) Home() {
+	c.TplName = "megagame.html"
+}
+func (c *WebController) Contact() {
+	c.TplName = "contact.html"
+}
 func (c *FormController) Get() {
 	c.TplName = "add_form.html"
 }
